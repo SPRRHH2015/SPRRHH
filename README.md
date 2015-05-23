@@ -1,2 +1,0 @@
-# SPRRHH
-Proyecto Electivo II
